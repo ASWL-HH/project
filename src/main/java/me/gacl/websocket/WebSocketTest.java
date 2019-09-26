@@ -46,7 +46,7 @@ public class WebSocketTest {
 	/**
 	 * 收到客户端消息后调用的方法
 	 * @param message 客户端发送过来的消息
-	 * @param session 可选的参数
+	 * @param session 可选的参数123
 	 */
 	@OnMessage
 	public void onMessage(String message, Session session) {

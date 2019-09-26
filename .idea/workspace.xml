@@ -7,10 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd989ba6-94be-428d-b945-a18e85883560" name="Default" comment="lalal">
-      <change afterPath="$PROJECT_DIR$/target/classes/me/gacl/websocket/bb.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/JavaWebSocket.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +60,7 @@
   <component name="ProjectId" id="1RMZaiHbjCtufWl8eCslAU65I5B" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory&#10;repository" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569478234621" />
@@ -366,7 +365,8 @@
       <workItem from="1569478996734" duration="401000" />
       <workItem from="1569479416364" duration="473000" />
       <workItem from="1569479907415" duration="75000" />
-      <workItem from="1569480002978" duration="619000" />
+      <workItem from="1569480002978" duration="819000" />
+      <workItem from="1569480839196" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="lalal">
       <created>1569466768219</created>
@@ -417,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569468290358</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="lalal">
+      <created>1569480645092</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569480645092</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">

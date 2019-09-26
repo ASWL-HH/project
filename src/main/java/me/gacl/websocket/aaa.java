@@ -1,4 +1,4 @@
 package me.gacl.websocket;
 
-public class asdasd {
+public class aaa {
 }
